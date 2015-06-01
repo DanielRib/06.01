@@ -13,6 +13,15 @@ body {
 #cabecalho {
     height: 100px;
     background-color: #228b22;
+    
+}
+
+#cabecalho h1{
+    margin: 0;
+    text-align: center;
+    padding-top: 30px 
+
+    
 }
 
 #menu {
@@ -24,7 +33,7 @@ body {
 }
 
 #conteudo {
-    /*background-color: blue;*/
+    background-color: blue;
     float: right;
     width: 80%;
 }
